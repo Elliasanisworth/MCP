@@ -39,4 +39,4 @@ server/
 
 ## License
 
-MIT (or specify your license)
+MIT
